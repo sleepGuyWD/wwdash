@@ -1,20 +1,20 @@
 
 function Footer() {
   return(
-    <section clasName="foot">
+    <section className="foot">
       <section className="footerTop">
-        <ul>
+        <ul className="loremMenu">
           <li>
-            <span>ipsum lorem</span>
+            <span>Lorem ipsum</span>
           </li>
           <li>
-            <span>ipsum lorem</span>
+            <span>Lorem ipsum</span>
           </li>
           <li>
-            <span>ipsum lorem</span>
+            <span>Lorem ipsum</span>
           </li>
           <li>
-            <span>ipsum lorem</span>
+            <span>Lorem ipsum</span>
           </li>
         </ul>
       </section>
